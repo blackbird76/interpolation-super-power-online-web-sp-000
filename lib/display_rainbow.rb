@@ -1,11 +1,11 @@
 def display_rainbow(colors = ['red', 'orange', 'yellow', 'green',
   'blue', 'indigo', 'violet'])
 
-  prints "R: #{colors[0]}"
-  prints "O: #{colors[1]}"
-  prints "Y: #{colors[2]}"
-  prints "G: #{colors[3]}"
-  prints "B: #{colors[4]}"
-  prints "I: #{colors[5]}"
-  prints "V: #{colors[6]}"
+  puts "R: #{colors[0]}"
+  puts "O: #{colors[1]}"
+  puts "Y: #{colors[2]}"
+  puts "G: #{colors[3]}"
+  puts "B: #{colors[4]}"
+  puts "I: #{colors[5]}"
+  puts "V: #{colors[6]}"
 end 
