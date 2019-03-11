@@ -5,4 +5,4 @@ def display_rainbow(colors = ['red', 'orange', 'yellow', 'green',
   puts "O: #{colors[1]}"
   puts "Y: #{colors[2]}"
   puts "G: #{colors[3]}"
-  
+  puts "B: #{colors[4]}" 
